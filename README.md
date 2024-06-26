@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/GithubQuaesitor/rsschool-cv/cv
+https://GithubQuaesitor.github.io/rsschool-cv/cv
