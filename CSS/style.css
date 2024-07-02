@@ -1,3 +1,117 @@
-body{
-    font-size: 10px;
+html{
+    background-color: antiquewhite;
+}
+
+.wrapper{
+    width: 85%;
+    margin:0 auto;
+    background-color: white;
+}
+
+.content{
+    display: flex;
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h1+p{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 26px;
+}
+h3{
+    font-size: 20px;  
+}
+h3+p{
+    font-style: italic;
+    margin-top:-10px;
+}
+
+main{
+    background-color:white;
+    padding-left: 50px;
+    padding-right:30px;
+    font-size: 20px;
+    text-align: justify;
+}
+main hr{
+    text-align: center;
+    height: 2px;
+    background-color: rgb(218, 214, 180);
+    border-radius: 50%;
+  }
+main h2{
+    margin-left: -10px;
+    padding: 10px;
+}
+.code{
+    text-align:start;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    background-color: rgb(234, 227, 177);
+} 
+
+header img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 0px 70px 5px 30px;
+    position: relative;
+    top:30px;
+    box-shadow: 0px 0px 5px 5px rgb(234, 227, 177);
+    
+}
+.text{
+    margin-top: 30px;
+}
+aside{
+    text-align: center;
+    padding-top:10px;
+    border: 1px;
+    background-color:rgb(247, 242, 205);
+    min-width: 250px;
+    font-size: 1.2rem;
+}
+aside ul{
+    text-align: left;
+}
+footer{
+    font-size: 1rem;
+    background-color: rgb(234, 227, 177);
+    padding: 10px;
+    text-align: center;
+}
+footer img{
+    height: 20px;
+    width: 20px;
+}
+footer p{
+    margin: 0px;
+    padding: 0px;
+}
+a:hover{
+    text-decoration: none;
+}
+.github{
+    width: 29px;
+    height: 29px;
+}
+.rsschool:hover,.github:hover{
+    filter: invert(22%) sepia(16%) saturate(1958%) hue-rotate(235deg) brightness(96%) contrast(93%);
+}
+footer a{
+    text-decoration: none;
+}
+.git-text,.course-text{
+    position: relative;
+    bottom: 9px;
+    padding-left: 10px;
 }
