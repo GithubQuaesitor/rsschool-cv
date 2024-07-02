@@ -3,10 +3,10 @@ Engineer/ Front-end Developer
 ***
 ## CONTACT
 * PHONE
-8(029)518-60-69
+8(029)xxx-xx-xx
 
 * MAIL
-kolinval2409@gmail.com
+xxxxxxxxx@gmail.com
 
 * GITHUB
 https://github.com/GithubQuaesitor
@@ -36,7 +36,7 @@ University:
 Brest Technical University.
 2016-2021
 
-## LANGUAES
+## LANGUAGES
 * Russian - native speaker level
 * English - EF English Cetificate C1 Advanced
 * Belarusian - C1 
