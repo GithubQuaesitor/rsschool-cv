@@ -36,7 +36,7 @@ University:
 Brest Technical University.
 2016-2021
 
-## LANGUAES
+## LANGUAGES
 * Russian - native speaker level
 * English - EF English Cetificate C1 Advanced
 * Belarusian - C1 
