@@ -1,6 +1,6 @@
 # BAHUTSKI DZMITRY
 Engineer/ Front-end Developer
-***
+
 ## CONTACT
 * PHONE
 8(029)xxx-xx-xx
@@ -13,7 +13,7 @@ https://github.com/GithubQuaesitor
 
 * DISCHORD NICKNAME
 Dmitri ( GithubQuaesitor)
-***
+
 ## SKILLS
 * Fast learning
 * Problem solvin skills
@@ -22,7 +22,7 @@ Dmitri ( GithubQuaesitor)
     * CSS
     * JS
     * C++
-***
+
 
 ## ABOUT ME
 I'm a newly minted Front-end Developer and my main aim to improve my knowledge
